@@ -103,8 +103,8 @@ This will:
 
 You can modify the following parameters in `bl/app.py`:
 
-- `SECONDS_AS_HOUR`: Number of seconds that represent an hour in the simulation (default: 5)
-- `SCHEDULES`: Dictionary mapping hours to event types
+- `SECONDS_AS_HOUR`: Number of seconds that represent an hour in the simulation (default: 5).
+- `SCHEDULES`: Dictionary mapping hours to event types, scheduling at which hour the event should be sent.
 - `VTN_URL`: URL of the VTN server
 
 ## Component Details
