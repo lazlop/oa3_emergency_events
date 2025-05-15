@@ -15,6 +15,7 @@ import random
 VTN_URL = "http://localhost:8080/openadr3/3.0.1"
 
 # How many seconds should represent an hour for faster than time simulation
+# If you just want to use actual hours, set this to 3600
 SECONDS_AS_HOUR = 5
 
 
